@@ -1,0 +1,8 @@
+The old HTML standard, HTML4, required a script to have a type.
+Usually it was type="text/javascript".
+It’s not required anymore. Also, the modern HTML standard totally changed the meaning of this attribute.
+Now, it can be used for JavaScript modules.
+But that’s an advanced topic, we’ll talk about modules in another part of the tutorial.
+---------------------------------------------------------------------------------------------------------------
+<script type="text/javascript"></script> // old
+<script language="JavaScript"></script> // old

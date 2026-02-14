@@ -1,0 +1,4 @@
+1. Script tagini html pageni istalgan joyiga qo'sha olamizmi?
+2. Script tagini eng effektiv qo'shiladigan joyi?
+3. "use strict" nima? U bizga nima beradi?
+4. BigInt data type nima.

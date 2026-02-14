@@ -1,0 +1,8 @@
+1. HTTP
+2. WebRTC
+3. Concurrency (with problems)
+4. OWASP-10
+5. CDN
+6. DNS
+7. Design Patterns 
+8. How does Browser Cache work
